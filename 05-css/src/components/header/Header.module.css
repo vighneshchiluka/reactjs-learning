@@ -1,0 +1,18 @@
+.header{
+  background-color: lightseagreen;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 25px;
+}
+
+.btn{
+  background-color: blue;
+  width: fit-content;
+  padding: 10px 25px;
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+}
