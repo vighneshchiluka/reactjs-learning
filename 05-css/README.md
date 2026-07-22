@@ -138,6 +138,13 @@ import styles from "./Button.module.css";
 
 ---
 
+### Output
+
+- Header Button → 🔵 Blue
+- Button Component → 🔴 Red
+
+---
+
 ## Why CSS Modules?
 
 Without CSS Modules:
